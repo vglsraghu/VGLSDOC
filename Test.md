@@ -11,7 +11,7 @@ _Foreign exchange_ transactions can take place on the foreign exchange market, a
 The forex market is the largest, most liquid market in the world, with trillions of dollars changing hands every day.
 There is no centralized location, rather the forex market is an electronic network of banks, brokers, institutions, and individual traders (mostly trading through brokers or banks).
 
-## Keytake aways
+## Keytakeaways
 
 - _Foreign Exchange_ (forex or FX) is a global market for exchanging national currencies with one another.
 - _Foreign exchange_ venues comprise the largest securities market in the world by nominal value, with trillions of dollars changing hands each day.
