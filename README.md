@@ -7,7 +7,7 @@ My name is Caran D’Arche. I am a pencil, and I was born in Geneva. A few days 
 My professional areas of interest include drawing, sketching, and designing. I specialise in drawing space-rovers and drone-probes.
 At my current company, I was instrumental in implementing a Sharp-and-Clear-Lines policy that reduced smudges by 43% and raised designer satisfaction by more than 78 basis points.
 
-_italics_My employment history is as follows:
+_italics My employment history is as follows:_
 
 -  1806 - present: Newell Musgrave LLC
 -  1781 - 1806: Derwent Cumberland Co
