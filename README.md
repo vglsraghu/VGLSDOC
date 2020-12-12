@@ -16,7 +16,7 @@ _My employment history is as follows:_
 
 ## What am I looking for?
 
-** I am looking for a role where I can use my special point-and-mark skills to annotate research papers at academic institutions that offer certificate courses in the following areas: mythology, comics, and card games.**
+I am looking for a role where I can use my special point-and-mark skills to annotate research papers at academic institutions that offer certificate courses in the following areas: mythology, comics, and card games.
 
 An example for Table
 |Period|Company|
