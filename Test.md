@@ -6,7 +6,8 @@
 ## What Is Foreign Exchange (Forex)?
 
 **Foreign Exchange (forex or FX)** is the trading of one currency for another. 
-For example, one can swap the U.S. dollar for the euro. Foreign exchange transactions can take place on the foreign exchange market, also known as the Forex Market.
+For example, one can swap the U.S. dollar for the euro.
+_Foreign exchange_ transactions can take place on the foreign exchange market, also known as the Forex Market.
 The forex market is the largest, most liquid market in the world, with trillions of dollars changing hands every day.
 There is no centralized location, rather the forex market is an electronic network of banks, brokers, institutions, and individual traders (mostly trading through brokers or banks).
 
