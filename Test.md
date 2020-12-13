@@ -23,7 +23,7 @@ There is no centralized location, rather the forex market is an electronic netwo
 The market determines the value, also known as an exchange rate, of the majority of currencies. 
 Foreign exchange can be as simple as changing one currency for another at a local bank.
 It can also involve trading currency on the foreign exchange market.
-For example, a trader is betting a central bank will ease or tighten monetary policy and that one currency will strengthen versus the other.
+_For example_, a trader is betting a central bank will ease or tighten monetary policy and that one currency will strengthen versus the other.
 
 ### Other Features
 
