@@ -22,3 +22,4 @@ An example for Table
 |Period|Company|
 |------|-------|
 |1806 - present|Newell Musgrave LLC|
+|1803 - 1807| TTT|
